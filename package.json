@@ -1,0 +1,11 @@
+{
+  "name": "nft-hallpass-discord-bot",
+  "version": "0.0.1",
+  "description": "Check user's NFT to see if they belong to the tribe ",
+  "main": "index.js",
+  "author": "nemothecollector",
+  "license": "MIT",
+  "dependencies": {
+    "discord.js": "^13.6.0"
+  }
+}
